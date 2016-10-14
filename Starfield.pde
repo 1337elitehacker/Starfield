@@ -28,7 +28,7 @@ class NormalParticle
   partColor = (int)(Math.random()*257)+1; 
   partangle = (Math.random()*(2*Math.PI));
   partspeed = (Math.random()*11);
-  System.out.println(partangle);
+  
 
 }
 
